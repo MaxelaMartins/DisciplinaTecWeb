@@ -1,0 +1,63 @@
+
+/*questaão 1 */
+
+@media only screen and (min-width :320px){
+    .MQ1{
+        background-color:black;
+    }
+}
+
+@media only screen and (min-width :480px){
+    .MQ1{
+        background-color: lightblue;
+    }
+}
+
+    
+@media only screen and (min-width :600px){
+    .MQ1{
+        background-color: lightgreen;
+    }
+}
+@media only screen and (min-width :768px){
+    .MQ1{
+        background-color:yellow;
+    }
+}
+@media only screen and (min-width :800px){
+    .MQ11{
+        background-color:brown;
+    }
+}
+
+@media only screen and (min-width :1024){
+    .MQ1{
+        background-color:blue;
+    }
+}
+
+@media only screen and (min-width :1024){
+    .MQ1{
+        background-color:rgb(6, 6, 33);
+    }
+}
+@media only screen and (min-width :1280){
+    .MQ1{
+        background-color: green;
+
+    }
+}
+@media only screen and (min-width :1440){
+    .MQ1{
+        background-color: red;
+    }
+
+ /* segunda questão */
+
+ @media not all and (orientation:landscape) {
+    .MQ2 {
+     display: none;
+    }
+  }
+  
+
